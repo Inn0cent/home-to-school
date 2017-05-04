@@ -1,0 +1,10 @@
+c:\users\cknot\documents\visual studio 2015\Projects\home to school\home to school\bin\Debug\home to school.exe.config
+c:\users\cknot\documents\visual studio 2015\Projects\home to school\home to school\bin\Debug\home to school.exe
+c:\users\cknot\documents\visual studio 2015\Projects\home to school\home to school\bin\Debug\home to school.pdb
+c:\users\cknot\documents\visual studio 2015\Projects\home to school\home to school\bin\Debug\home to school.xml
+c:\users\cknot\documents\visual studio 2015\Projects\home to school\home to school\obj\Debug\home to school.vbprojResolveAssemblyReference.cache
+c:\users\cknot\documents\visual studio 2015\Projects\home to school\home to school\obj\Debug\home_to_school.Resources.resources
+c:\users\cknot\documents\visual studio 2015\Projects\home to school\home to school\obj\Debug\home to school.vbproj.GenerateResource.Cache
+c:\users\cknot\documents\visual studio 2015\Projects\home to school\home to school\obj\Debug\home to school.exe
+c:\users\cknot\documents\visual studio 2015\Projects\home to school\home to school\obj\Debug\home to school.xml
+c:\users\cknot\documents\visual studio 2015\Projects\home to school\home to school\obj\Debug\home to school.pdb
